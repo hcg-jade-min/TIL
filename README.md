@@ -20,7 +20,7 @@
         * 생활코딩은 일반인들에게 프로그래밍을 알려주는 것을 목적으로 하는 비영리 커뮤니티
         * 친절하고 쉽게 알려주는 것이 장점
         * 프로그래밍 언어부터 웹, 네트워크, 통신 등 많은 내용들이 있고 입문 단계에서 좋은 선택이 될 수 있다는 판단이 들었음
-        * [handbook 의 가이드 문서](https://github.com/hcgtheplus/handbook/blob/master/hello_newbie/guide-for-newbie-guide.md) > `4. 추후 일정 안내` > [RoR 학습시 참고 링크](https://brunch.co.kr/@jamess/44) 에서 소개하는 추천 강의에도 소개되어 있어 선택하게 되었음
+        * handbook 의 가이드 문서 > `4. 추후 일정 안내` > [RoR 학습시 참고 링크](https://brunch.co.kr/@jamess/44) 에서 소개하는 추천 강의에도 소개되어 있어 선택하게 되었음
 
   
 
@@ -40,7 +40,7 @@
   0. 강의 선정 기준
      1. Goorm 무료 강의
         * 하루동안 생활코딩을 통해 학습한 결과, 생활코딩의 루비 강의는 생각보다 이론적인 부분이 많아 내용이 부실하다는 판단이 들었음
-        * [handbook 의 가이드 문서](https://github.com/hcgtheplus/handbook/blob/master/hello_newbie/guide-for-newbie-guide.md) > `4. 추후 일정 안내` > [RoR 학습시 참고 링크](https://brunch.co.kr/@jamess/44) 에서 소개하는 추천 강의 목록을 다시 탐색하던 중 [구름EDU 에서 제공하는 무로 강의](https://edu.goorm.io/learn/lecture/16335/%ED%95%9C-%EB%88%88%EC%97%90-%EC%9D%BD%EB%8A%94-%EB%A3%A8%EB%B9%84-%EC%98%A8-%EB%A0%88%EC%9D%BC%EC%A6%88/info) 를 발견
+        * handbook 의 가이드 문서 > `4. 추후 일정 안내` > [RoR 학습시 참고 링크](https://brunch.co.kr/@jamess/44) 에서 소개하는 추천 강의 목록을 다시 탐색하던 중 [구름EDU 에서 제공하는 무로 강의](https://edu.goorm.io/learn/lecture/16335/%ED%95%9C-%EB%88%88%EC%97%90-%EC%9D%BD%EB%8A%94-%EB%A3%A8%EB%B9%84-%EC%98%A8-%EB%A0%88%EC%9D%BC%EC%A6%88/info) 를 발견
         * 동영상 시청이 아닌 문서 가이드라 학습자의 능력에 따라 빠르게 끝내기도 가능하며, 설명도 친절하게 잘 되어 있음
         * 뿐만 아니라, 구름은 IDE 환경도 제공하기 때문에 환경설정 걱정 없이 Ruby 학습에만 전념이 가능하기에 선택하게 되었음
 
